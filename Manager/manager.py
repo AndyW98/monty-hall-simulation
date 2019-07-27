@@ -1,5 +1,5 @@
 from random import randint
-from door import Door
+from Manager.door import Door
 
 class Manager:
     def __init__(self, num_doors=3):

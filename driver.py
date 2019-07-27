@@ -1,6 +1,6 @@
-from host import Host
-from player import Player
-from manager import Manager
+from Participants.host import Host
+from Participants.player import Player
+from Manager.manager import Manager
 
 def main():
     player = Player('sucker')
