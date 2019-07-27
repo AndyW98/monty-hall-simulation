@@ -3,4 +3,17 @@ __pycache__/host\.cpython-37\.pyc
 
 __pycache__/player\.cpython-37\.pyc
 
-\.vscode/launch\.json
+__pycache__/door\.cpython-37\.pyc
+
+__pycache__/manager\.cpython-37\.pyc
+
+Manager/__pycache__/door\.cpython-37\.pyc
+
+Manager/__pycache__/manager\.cpython-37\.pyc
+
+Participants/__pycache__/host\.cpython-37\.pyc
+
+Participants/__pycache__/player\.cpython-37\.pyc
+.vscode/launch.json
+
+\.vscode
