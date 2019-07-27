@@ -1,2 +1,2 @@
 def player():
-    print('player')]
+    print('player')
